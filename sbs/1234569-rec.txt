@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2020-11-29] [21:04:36]       124              124

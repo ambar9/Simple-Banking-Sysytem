@@ -1,0 +1,2 @@
+DATE                        Credit       Debit        Balance
+[20-11-29] [22:33:27]       500                       500
